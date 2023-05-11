@@ -1,0 +1,11 @@
+ol {
+	list-style-type: lower-roman;
+}
+ul {
+	list-style-type: circle;
+}
+h2 {
+	background-color: black;
+	color: white;
+	text-shadow: 2px 2px grey;
+}
