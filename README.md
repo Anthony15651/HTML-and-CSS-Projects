@@ -4,8 +4,8 @@ This repository contains my HTML and CSS projects completed through The Tech Aca
 
 <h2>Projects:</h2>
 <ul>
-  <li><a href="https://github.com/Anthony15651/HTML-and-CSS-Projects/edit/bootstrap4_project/academy_cinemas.html">Movie Theater Site</a></li>
-  <li><a href="index.html">Themed Resort Site</a></li>
+  <li><a href="https://github.com/Anthony15651/HTML-and-CSS-Projects/blob/main/bootstrap4_project/academy_cinemas.html">Movie Theater Site</a></li>
+  <li><a href="https://github.com/Anthony15651/HTML-and-CSS-Projects/blob/main/Website_Project/index.html">Themed Resort Site</a></li>
 </ul>
 
 <h3>Movie Theater Site</h3>
