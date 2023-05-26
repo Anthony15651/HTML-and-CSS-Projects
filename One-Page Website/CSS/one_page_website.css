@@ -27,7 +27,10 @@ h1 {
 }
 
 /* MODAL / LIGHTBOX DESIGN */
-
+.row > .column {
+    border: 2px solid black;
+    border-radius: 3px;
+}
 
 .row:after {
     content: "";
@@ -35,11 +38,12 @@ h1 {
     clear: both;
 }
 
-/* CREATING 4 COLUMNS THAT FLOAT NEXT TO EACH OTHER */
+/* CREATING COLUMNS THAT FLOAT NEXT TO EACH OTHER */
 .column {
     float: left;
-    width: 24%;
-    padding: 0 .25%;
+    width: 10.7%;
+    max-height: 200px;
+    padding: 0;
 }
 
 /* THE MODAL (BACKGROUND) */
