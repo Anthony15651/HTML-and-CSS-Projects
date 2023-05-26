@@ -52,7 +52,7 @@ img {
 
 /* THE MODAL (BACKGROUND) */
 .modal {
-    diplay: none;
+    display: none;
     position: fixed;
     z-index: 1;
     padding-top: 100px;
@@ -70,7 +70,7 @@ img {
     background-color: #fefefe;
     margin: auto;
     padding: 0;
-    widht: 90%;
+    width: 90%;
     max-width: 1200px;
 }
 
