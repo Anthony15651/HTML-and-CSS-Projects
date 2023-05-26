@@ -26,13 +26,6 @@ h1 {
     color: white;
 }
 
-img {
-    padding: 10px;
-    float: left;
-    height: 200px;
-    width: 200px;
-}
-
 /* MODAL / LIGHTBOX DESIGN */
 .row > .column {
     padding: 0 8px;
