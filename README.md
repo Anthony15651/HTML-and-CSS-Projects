@@ -1,6 +1,6 @@
 # HTML-and-CSS-Projects
 
-This repository contains my HTML and CSS projects completed through The Tech Academy.
+This repository contains my HTML and CSS projects completed throughout my learning journey.
 
 <h2>Projects:</h2>
 <ul>
